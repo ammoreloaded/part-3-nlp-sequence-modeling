@@ -1,0 +1,21 @@
+message	true_label	pred_label
+like new payment easy use ticket number 65556	positive	positive
+great service clear communication support team	positive	positive
+refund still pending experience frustrating	negative	negative
+app crashes whenever try use analytics	negative	negative
+response team helpful professional	positive	positive
+someone explain difference plans	neutral	neutral
+like new video call easy use	positive	positive
+like new report download easy use	positive	positive
+someone explain difference plans	neutral	neutral
+want understand warranty terms product	neutral	neutral
+refund process fast convenient appreciate quick response	positive	positive
+satisfied plan would recommend others ticket number 66502	positive	positive
+need information payment process please respond soon possible	neutral	neutral
+confirm whether ticket assigned ticket number 65194	neutral	neutral
+billing incorrect charged twice month	negative	negative
+satisfied plan would recommend others ticket number 67350	positive	positive
+satisfied plan would recommend others	positive	positive
+checking scheduled maintenance today	neutral	neutral
+would like know available plans	neutral	neutral
+want cancel service quality poor unreliable ticket number 20363 please respond soon possible	negative	negative
